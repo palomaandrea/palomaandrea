@@ -1,7 +1,7 @@
 - 🌺: I am working as **QA Automation Jr.**
+- 🗺️: I am based in **Santiago, Chile**
 - 👓: Interested in everything about **Web Performance**
 - 📑: Currently learning **HTML, CSS & JavaScript**
 - 👩‍🎓: I am currently studying to be a **Computer Engineer**
-- 🚴: I love **riding my bike**. It eases my mind!
-- 🧶: I also am great at **crochet**. Blankets, blankets everywhere
-- 🗺️: I am based in **Santiago, Chile**. I would love to travel the world one day
+- 🚴: I love **riding my bike**
+- 🧶: My favourite hobby is **crocheting**
