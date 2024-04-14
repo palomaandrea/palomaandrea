@@ -1,35 +1,6 @@
-### Hi there 👋
-
-<!--
-**palomaandrea/palomaandrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-name: Todoist Readme
-
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs every minute
-    - cron: "* * * * *"
-
-jobs:
-  update-readme:
-    name: Update todoist stats
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: abhisheknaiidu/todoist-readme@master
-        with:
-          TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
-          PREMIUM: ""
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=palomaandrea&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="Palomaandrea's GitHub Stats" style="text-align: center; margin-bottom: 30px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palomaandrea&theme=jolly&hide_border=true" alt="Palomaandrea's GitHub streak" style="text-align: center; margin-bottom: 30px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaandrea&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="Palomaandrea's most used programming languages" style="text-align: center; margin-bottom: 30px;" />
+  <br>
+</p>
