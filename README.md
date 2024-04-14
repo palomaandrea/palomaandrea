@@ -1,5 +1,5 @@
 - 🌺: My name is **Paloma Andrea**
-- 👩‍💼: I work as a **QA Automation Engineer Jr.**
+- 👩‍💼: I work as a **Jr. QA Automation Engineer**
 - 🗺️: I am based in **Santiago, Chile**
 - 👓: Interested in everything about **Web Performance**
 - 📑: Currently learning **HTML, CSS & JavaScript**
