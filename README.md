@@ -6,6 +6,7 @@
 - 👩‍💼 I work as a **Jr. QA Automation Engineer**
 - 🗺️ I am based in **Santiago, Chile**
 - 👓 Interested in everything about **Web Performance**
+- 🧰 My skills include **Java, Python, Postman & JMeter**
 - 📑 Currently learning **HTML, CSS & JavaScript**
 - 👩‍🎓 I am a second year **Computer Engineering student**
 - 🚴 I enjoy **riding my bike**
