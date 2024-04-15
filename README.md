@@ -10,7 +10,7 @@
 - 🎒 I am currently learning **HTML, CSS, JavaScript & Groovy**
 - 📝 I would like to learn more about **Data Analysis & Cibersecurity**
 - 🎓 I am a second year **Computer Engineering student**
-- 🚴 I deeply enjoy **bike riding **
+- 🚴 I deeply enjoy **bike riding**
 - 🧶 My favourite hobby is **crocheting**
 - 🌆 And I love **sunsets!**
 
