@@ -7,8 +7,9 @@
 - 🗺️ I am based in **Santiago, Chile**
 - 👓 Interested in everything about **Web Performance**
 - 🧰 My skills include **Java, Python, Postman & JMeter**
-- 📑 Currently learning **HTML, CSS, JavaScript & Groovy**
-- 👩‍🎓 I am a second year **Computer Engineering student**
+- 🎒 Currently learning **HTML, CSS, JavaScript & Groovy**
+- 📝 Would like to learn more about **Data Analysis & Cibersecurity**
+- 🎓 I am a second year **Computer Engineering student**
 - 🚴 I enjoy **riding my bike**
 - 🧶 My favourite hobby is **crocheting**
 - 🌆 I love **sunsets!**
