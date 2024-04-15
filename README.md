@@ -3,7 +3,7 @@
 - 🗺️ I am based in **Santiago, Chile**
 - 👓 Interested in everything about **Web Performance**
 - 📑 Currently learning **HTML, CSS & JavaScript**
-- 👩‍🎓 I am a third year **Computer Engineering student**
+- 👩‍🎓 I am a second year **Computer Engineering student**
 - 🚴 I enjoy **riding my bike**
 - 🧶 My favourite hobby is **crocheting**
 - 🌆 I love **sunsets!**
