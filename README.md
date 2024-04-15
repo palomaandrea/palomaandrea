@@ -4,8 +4,6 @@
 - 👓 Interested in everything about **Web Performance**
 - 📑 Currently learning **HTML, CSS & JavaScript**
 - 👩‍🎓 I am a third year **Computer Engineering student**
-<br>
-  *Random facts about me*<br>
 - 🚴 I enjoy **riding my bike**
 - 🧶 My favourite hobby is **crocheting**
 - 🌆 I love **sunsets!**
