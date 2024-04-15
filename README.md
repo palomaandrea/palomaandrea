@@ -1,5 +1,6 @@
-<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaandrea&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="stats"></center>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaandrea&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="stats" style="display: block; margin: 0 auto">
+</p>
 - 🌺 My name is **Paloma Andrea**
 - 👩‍💼 I work as a **Jr. QA Automation Engineer**
 - 🗺️ I am based in **Santiago, Chile**
