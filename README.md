@@ -3,13 +3,14 @@
 </p>
 
 - 🌺 Hi! My name is **Paloma Andrea**
-- 👩‍💼 I work as a **Jr. QA Automation Engineer**
-- 🗺️ I am based in **Santiago, Chile**
-- 👓 I am interested in everything about **Web Performance**
-- 🧰 My skills include **Java, Python, Postman & JMeter**
-- 🎒 I am currently learning **HTML, CSS, JavaScript & Groovy**
-- 📝 I would like to learn more about **Data Analysis & Cibersecurity**
-- 🎓 I am a second year **Computer Engineering student**
+- 💼 I work as a **Jr. QA Automation Engineer**
+- 🗿 I am based in **Santiago, Chile**
+- 👓 Interested in: **Web Performance**
+- 💻 Skills: **Java & Python**
+- 🛠️ Tools: **Postman & JMeter**
+- 💾 Currently learning: **HTML, CSS, JavaScript & Groovy**
+- 📊 Would like to learn: **Data Analysis & Cibersecurity**
+- 🎓 Second year **Computer Engineering student**
 - 🚴 I deeply enjoy **bike riding**
 - 🧶 My favourite hobby is **crocheting**
 - 🌆 And I love **sunsets!**
