@@ -5,12 +5,12 @@
 - 🌺 Hi! My name is **Paloma Andrea**
 - 💼 I work as a **Jr. QA Automation Engineer**
 - 🗿 I am based in **Santiago, Chile**
-- 👓 Interested in: **Web Performance**
-- 💻 Skills: **Java & Python**
-- 🛠️ Tools: **Postman & JMeter**
-- 💾 Currently learning: **HTML, CSS, JavaScript & Groovy**
-- 📊 Would like to learn: **Data Analysis & Cibersecurity**
-- 🎓 Second year **Computer Engineering student**
+- 👓 Im currently in the field of **Web Performance**
+- 💻 My skills are **Java & Python**
+- 🛠️ The tools I manage are **Postman & JMeter**
+- 💾 I am currently learning **HTML, CSS, JavaScript & Groovy**
+- 📊 I would like to learn more about **Data Analysis & Cibersecurity**
+- 🎓 I am also a second year **Computer Engineering student**
 - 🚴 I deeply enjoy **bike riding**
 - 🧶 My favourite hobby is **crocheting**
 - 🌆 And I love **sunsets!**
