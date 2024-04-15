@@ -8,7 +8,7 @@
 - 👓 Im currently in the field of **Web Performance**
 - 💻 My skills are **Java & Python**
 - 🛠️ The tools I manage are **Postman & JMeter**
-- 💾 I am currently learning **HTML, CSS, JavaScript & Groovy**
+- 💾 I am currently learning **HTML, CSS, JavaScript, PLSQL & Groovy**
 - 📊 I would like to learn more about **Data Analysis & Cibersecurity**
 - 🎓 I am also a second year **Computer Engineering student**
 - 🚴 I deeply enjoy **bike riding**
