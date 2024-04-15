@@ -4,8 +4,10 @@
 - 👓 Interested in everything about **Web Performance**
 - 📑 Currently learning **HTML, CSS & JavaScript**
 - 👩‍🎓 I am a third year **Computer Engineering student**
-- 🚴 I love **riding my bike**
+<br>
+  *Random facts about me*
+- 🚴 I enjoy **riding my bike**
 - 🧶 My favourite hobby is **crocheting**
-- 🌆 Random fact about me: I love **sunsets!**
+- 🌆 I love **sunsets!**
 
 <img src="chilean-torres-del-paine-in-a-pink-sunset.png" alt="Chile's Torres del Paine but in a pink sunset">
