@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaandrea&theme=jolly&show_icons=true&hide_border=true&layout=compact" alt="stats" style="display: block; margin: 0 auto">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=palomaandrea&theme=buefy&hide_border=true" alt="stats" style="display: block; margin: 0 auto">
 </p>
 
 - 🌺 Hi! My name is **Paloma Andrea**
