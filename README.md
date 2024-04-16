@@ -5,7 +5,7 @@
 - 🌺 Hi! My name is **Paloma Andrea**
 - 💼 I work as a **Jr. QA Automation Engineer**
 - 🗿 I am based in **Santiago, Chile**
-- 👓 Im currently in the field of **Web Performance**
+- 👓 Im currently woking in the field of **Web Performance**
 - 💻 My skills are **Java & Python**
 - 🛠️ The tools I manage are **Postman & JMeter**
 - 💾 I am currently learning **HTML, CSS, JavaScript, PLSQL & Groovy**
