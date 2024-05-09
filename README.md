@@ -6,14 +6,12 @@
 </p>
 
 - 🌺 Hi! My name is **Paloma Andrea**
-- 💼 I work as a **Jr. QA Automation Engineer**
 - 🗿 I am based in **Santiago, Chile**
-- 👓 Im currently woking in the field of **Web Performance**
+- 🎓 I am a second year **Computer Engineering student**
+- 👓 Im currently working in the field of **Web Performance**
 - 🛠️ The tools I manage are **Postman & JMeter**
-- 💾 I am currently learning **HTML, CSS, JavaScript, PLSQL & Groovy**
-- 📊 I would like to learn more about **Data Analysis & Cibersecurity**
-- 🎓 I am also a second year **Computer Engineering student**
-- 🚴 I deeply enjoy **bike riding**
+- 💾 I am currently learning **FullStack Web Development & PLSQL**
+- 📊 I am interested in learning more about **Data Analysis & Cibersecurity**
 - 🧶 My favourite hobby is **crocheting**
 - 🌆 And I love **sunsets!**
 
